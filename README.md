@@ -61,8 +61,8 @@ The script performs the following cleaning operations:
 Contributions are welcome! If you have ideas for additional features or enhancements, feel free to submit a pull request or open an issue.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the Haye_Tech License. See the LICENSE file for details.
 
 ## Contact
-For questions, suggestions, or support, please contact [Your Name] at [Your Email Address].
+For questions, suggestions, or support, please contact Hayelom at haye.officiall@gmail.com.
 
